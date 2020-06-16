@@ -22,7 +22,7 @@ process.env.JWT_SECRET
 
 # Steps
 ```js
-git clone -b issue-api https://github.com/ranjith29v/strapi-blinkin-api.git  
+git clone https://github.com/ranjith29v/strapi-blinkin-api.git  
 cd strapi-blinkin-api  
 npm install  
 NODE_ENV=production npm run build  
